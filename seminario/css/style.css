@@ -1,0 +1,28 @@
+body{
+    background-color: #cccdce;
+}
+img{
+    width: 68px;
+    height: 68px;
+}
+
+.vision{
+    border:1px solid black;
+    width:90%;
+    height:auto;
+    padding:5px;
+    background:#B4BDD1;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 50px;
+    margin-left: 50%;
+}
+
+.mision{
+    border:1px solid black;
+    width:90%;
+    height:auto;
+    padding:5px;
+    background:#B4BDD1;
+    text-align: center;
+}

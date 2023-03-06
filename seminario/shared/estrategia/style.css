@@ -1,0 +1,9 @@
+body{
+    background: black url(src/estrategias.png) center fixed no-repeat;
+    background-size: contain;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}

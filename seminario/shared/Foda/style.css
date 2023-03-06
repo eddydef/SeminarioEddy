@@ -1,0 +1,9 @@
+h1{
+    color: white;
+    text-align: center;
+}
+body{
+    background: black url(src/FODA.png) center fixed no-repeat;
+    background-size: contain;
+    font-family: Arial, Helvetica, sans-serif;
+}
